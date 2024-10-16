@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajxPatil
-- 👀 I’m interested in Web Dev and Competitive Programming
+- 👀 I’m interested in Machine Learning and Competitive Programming
 - 🌱 I’m currently Exploring CP
 - 📫 How to reach me: rajpatil172004@gmail.com
 - 😄 Pronouns: He/Him
