@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajxPatil
 - 👀 I’m interested in Machine Learning and Competitive Programming
-- 🌱 I’m currently Exploring CP
+- 🌱 I’m currently Exploring Machine Learning
 - 📫 How to reach me: rajpatil172004@gmail.com
 - 😄 Pronouns: He/Him
 
