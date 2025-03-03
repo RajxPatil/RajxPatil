@@ -1,3 +1,4 @@
+![logo](https://github.com/RajxPatil/RajxPatil/blob/main/RAJ%20PATIL.png)
 <h1 align="center">Hi 👋, I'm Raj Patil</h1>
 <h3 align="center">A passionate ML Engineer exploring Artificial Intelligence, Data Science, and beyond.</h3>
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
