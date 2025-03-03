@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ML Engineer exploring Artificial Intelligence, Data Science, and beyond.</h3>
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
 
-- I’m currently working on **Generative-AI and MLOps**
+- ➡️ I’m currently working on **Generative-AI and MLOps**
 
 - 🌱 I’m currently learning **MLOps, GANs and GNNs**
 
